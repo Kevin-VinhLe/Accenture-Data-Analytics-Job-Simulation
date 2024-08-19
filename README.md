@@ -11,9 +11,9 @@ In this job simulation project offered by Accenture on Forage, I:
 ### Data Sources
 
 Among 7 given datasets, the primary datasets used for this analysis is as follows: 
- - Content ("Content.csv"): Contains information about the types and categories of each piece of content being created.
- - Reaction ("Reaction.csv"): Contains detailed records of each user's reaction to a specific piece of content.
- - Reaction Types ("ReactionTypes.csv"): Contains a table categorizing each user's reaction and converting it into a quantifiable score on a scale of 0 to 100.
+ - Content ("_Content.csv_"): Contains information about the types and categories of each piece of content being created.
+ - Reaction ("_Reaction.csv_"): Contains detailed records of each user's reaction to a specific piece of content.
+ - Reaction Types ("_ReactionTypes.csv_"): Contains a table categorizing each user's reaction and converting it into a quantifiable score on a scale of 0 to 100.
 
 
 ### Tools
